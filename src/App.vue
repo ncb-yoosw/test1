@@ -36,7 +36,7 @@ export default {
        room : roomData,
        modal_flg : false,
        reportCnt: 0,
-       Headermenu : ['Home','Shop','About'],
+       Headermenu : ['Home','Shop','About1'],
        products : ['역삼동원룸1','역삼동원룸2','역삼동원룸3']
     }
   },
